@@ -1,0 +1,112 @@
+<resources>
+    <string name="app_name">RecyclerView-ClickEvent-With-MultipleDta</string>
+
+
+    <string-array name="title">
+
+        <item>Mobile</item>
+        <item>Laptop</item>
+        <item>Mobile</item>
+        <item>Laptop</item>
+        <item>Mobile</item>
+        <item>Laptop</item>
+        <item>Mobile</item>
+        <item>Laptop</item>
+        <item>Mobile</item>
+        <item>Laptop</item>
+        <item>Mobile</item>
+        <item>Laptop</item>
+        <item>Mobile</item>
+        <item>Laptop</item>
+        <item>Mobile</item>
+        <item>Laptop</item>
+
+    </string-array>
+
+    <string-array name="description">
+
+        <item>Mobie Phone</item>
+        <item>Laptop Computer</item>
+        <item>Mobie Phone</item>
+        <item>Laptop Computer</item>
+        <item>Mobie Phone</item>
+        <item>Laptop Computer</item>
+        <item>Mobie Phone</item>
+        <item>Laptop Computer</item>
+        <item>Mobie Phone</item>
+        <item>Laptop Computer</item>
+        <item>Mobie Phone</item>
+        <item>Laptop Computer</item>
+        <item>Mobie Phone</item>
+        <item>Laptop Computer</item>
+        <item>Mobie Phone</item>
+        <item>Laptop Computer</item>
+    </string-array>
+
+
+    <string-array name="author">
+
+        <item>Stiv Jobs</item>
+        <item>Bill Gates</item>
+        <item>Stiv Jobs</item>
+        <item>Bill Gates</item>
+        <item>Stiv Jobs</item>
+        <item>Bill Gates</item>
+        <item>Stiv Jobs</item>
+        <item>Bill Gates</item>
+        <item>Stiv Jobs</item>
+        <item>Bill Gates</item>
+        <item>Stiv Jobs</item>
+        <item>Bill Gates</item>
+        <item>Stiv Jobs</item>
+        <item>Bill Gates</item>
+        <item>Stiv Jobs</item>
+        <item>Bill Gates</item>
+
+    </string-array>
+
+
+    <string-array name="price">
+
+        <item>$500</item>
+        <item>$800</item>
+        <item>$500</item>
+        <item>$800</item>
+        <item>$500</item>
+        <item>$800</item>
+        <item>$500</item>
+        <item>$800</item>
+        <item>$500</item>
+        <item>$800</item>
+        <item>$500</item>
+        <item>$800</item>
+        <item>$500</item>
+        <item>$800</item>
+        <item>$500</item>
+        <item>$800</item>
+
+    </string-array>
+
+    <string-array name="card">
+
+        <item>Debit</item>
+        <item>Credit</item>
+        <item>Debit</item>
+        <item>Credit</item>
+        <item>Debit</item>
+        <item>Credit</item>
+        <item>Debit</item>
+        <item>Credit</item>
+        <item>Debit</item>
+        <item>Credit</item>
+        <item>Debit</item>
+        <item>Credit</item>
+        <item>Debit</item>
+        <item>Credit</item>
+        <item>Debit</item>
+        <item>Credit</item>
+
+    </string-array>
+
+
+</resources>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_details"
+    android:orientation="vertical"
+    android:background="@drawable/iteam_background"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="yazdaniscodelab.recyclewithclickevent.DetailsActivity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:id="@+id/image_xml"
+        android:background="@drawable/c"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/title_xml"
+        android:layout_margin="10dp"
+        android:text="Title"
+        android:textColor="@android:color/white"
+        android:textAppearance="?android:textAppearanceLarge"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/description_xml"
+        android:layout_margin="5dp"
+        android:textColor="@android:color/white"
+        android:text="Description"
+        android:textAppearance="?android:textAppearanceLarge"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/author_xml"
+        android:layout_margin="5dp"
+        android:textColor="@android:color/white"
+        android:text="Author"
+        android:textAppearance="?android:textAppearanceLarge"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/price_xml"
+        android:layout_margin="5dp"
+        android:textColor="@android:color/white"
+        android:text="Price"
+        android:textAppearance="?android:textAppearanceLarge"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/card_xml"
+        android:layout_margin="5dp"
+        android:textColor="@android:color/white"
+        android:text="Card"
+        android:textAppearance="?android:textAppearanceLarge"
+        />
+
+
+</LinearLayout>
